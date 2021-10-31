@@ -1,0 +1,23 @@
+body{
+    background-color: lavender;
+}
+h1{
+    text-align: left;
+}
+header{
+    background-color:lightgreen;
+    width: 30%;
+}
+.division{
+    font-size: 1em;
+    font-family: monospace,Arial, Helvetica, sans-serif;
+    width: 120px;
+    background-color: silver;
+}
+a:hover{
+    font-size: 2em;
+    text-decoration: none;
+}
+a:focus{
+    color: red;
+}
